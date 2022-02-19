@@ -1,5 +1,5 @@
 # spades_circular_contigs
-Python script to identify circular contigs from SPAdes assembler.
+Python script to identify circular contigs from SPAdes assembler and trim the repeated k-mer found at both terminals.
 
 Usage:
 
